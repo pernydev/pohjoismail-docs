@@ -9,13 +9,13 @@ In PohjoisMail, an address serves as a gateway to direct emails to their intende
 ## What is an Account?
 An account represents individual users within your organization. Each account is linked to a single address and operates similarly to a standard email account, complete with folders for organizing emails. Users can access their accounts via the PohjoisMail webmail interface or through email clients using IMAP, SMTP, and/or POP3 protocols.
 
-## How do Addresses and Accounts Work Together?
+## How do Addresses and Accounts work together?
 When an email is sent to an address, it is received by the address and forwarded to the service using that address. Email accounts are just another PohjoisMail service, so the email is then forwarded to the account. The account then processes everything further using industry-standard email server protocols. Therefore, everything you already know about email accounts applies here.
 
-## Do I Need to Create an Address for Every Account?
+## Do Ineed to create an Address for every Account?
 No, you don't. Creating an address can be done simultaneously with creating an account and does not require a separate process. When creating an account, you will be prompted to create an address for it if one does not already exist.
 
-## How do I Create an Account?
+## How do I create an Account?
 Creating an account is straightforward. Navigate to the Addresses section of your organization and click the "New Address" button. You will then be prompted to name your account. An account name should ideally be the name of the person who will be using it.
 
 Next, you will be prompted to create an address for the account. If you already have an existing address, you can select "Use an already existing address" and choose the desired address.
@@ -24,3 +24,4 @@ If you do not have an address, you can select "Create a new address" and name th
 
 ## Conclusion
 Congratulations! You now understand how to create an account and an address for that account within PohjoisMail. You also grasp how addresses and accounts collaborate and how to manage them effectively. Should you have any questions, feel free to reach out to us via chat. We're here to assist you. In the next guide, we'll delve into groups and how they can enhance your organization's email management.
+j
